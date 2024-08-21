@@ -1,0 +1,7 @@
+{
+  "name": "calculate-the-sum-of-fibonacci-numbers",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
